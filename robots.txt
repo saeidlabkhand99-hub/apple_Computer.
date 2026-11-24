@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://apple-computer-ten.vercel.app/sitemap.xml
